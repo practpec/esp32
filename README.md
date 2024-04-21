@@ -8,6 +8,7 @@ Sensores
 - SCT013 NO INVASIVO
 
 OTROS 
+- Esp32
 - 1 jack 3.5 de tres
   
 Existen dos maneras 
